@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ks_Target_XMLParsing", "ks_Target_XMLParsing.csproj", "{EEF65D82-51C7-4969-AF9B-DCE43CAA3FCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEF65D82-51C7-4969-AF9B-DCE43CAA3FCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEF65D82-51C7-4969-AF9B-DCE43CAA3FCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEF65D82-51C7-4969-AF9B-DCE43CAA3FCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEF65D82-51C7-4969-AF9B-DCE43CAA3FCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26BCA767-3E8F-4C62-B2FB-CD2AE7C6B690}
+	EndGlobalSection
+EndGlobal

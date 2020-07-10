@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+
+<PERS_LIST>
+  <ZGLV>
+    <VERSION>3.2</VERSION>
+    <DATA>2020-03-06</DATA>
+    <FILENAME>LM040016S04002_20025</FILENAME>
+    <FILENAME1>HM040016S04002_20025</FILENAME1>
+  </ZGLV>
+  <PERS>
+    <ID_PAC>107600</ID_PAC>
+    <FAM>Фамилия_1</FAM>
+    <IM>Имя_1</IM>
+    <OT>Отчество_1</OT>
+    <W>2</W>
+    <DR>2002-09-11</DR>
+    <DOCDATE>2014-04-03</DOCDATE>
+    <DOCORG>орган выдавший документ удостоверяющий личность</DOCORG>
+    <SNILS>000-111-222 42</SNILS>
+    <OKATOG>84220820001</OKATOG>
+    <OKATOP>84220820001</OKATOP>
+    <COMENTP>649000, Село_1, Улица Наименование улицы, Дом 3, 1</COMENTP>
+  </PERS>
+  <PERS>
+    <ID_PAC>230955</ID_PAC>
+    <FAM>Фамилия_2</FAM>
+    <IM>Имя_2</IM>
+    <OT>Отчество_2</OT>
+    <W>2</W>
+    <DR>1954-12-15</DR>
+    <SNILS>000-111-222 41</SNILS>
+    <OKATOG>84220840001</OKATOG>
+    <OKATOP>84220840001</OKATOP>
+    <COMENTP>649000, Село_2, Улица Наименование улицы, Дом 4, </COMENTP>
+  </PERS>
+  </PERS_LIST>
